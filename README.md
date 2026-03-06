@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🚀 PapsLearnz
 
-<!--
-**PapsLearnz/PapsLearnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learn practical technology skills through structured courses and real-world projects.
 
-Here are some ideas to get you started:
+PapsLearnz is a tech education initiative focused on helping beginners and intermediate learners build real skills in modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Topics
+
+- 💻 Programming
+- 🌐 Web Development
+- 🧩 WordPress
+- ⚙️ Developer Tools
+- 🧱 Tech Fundamentals
+- 🔐 Cybersecurity Basics
+- 🤖 AI Tools
+- ⚡ Automation
+
+---
+
+## 📚 Courses
+
+- JavaScript Bootcamp
+- HTML & CSS Foundations
+- MERN Stack Development
+- WordPress Development
+
+Courses and projects are added regularly.
+
+---
+
+## 🔗 Links
+
+📺 YouTube  
+https://www.youtube.com/@PapsLearnz
+
+🌍 Website  
+https://papslearnz.com
+
+💼 LinkedIn  
+https://www.linkedin.com/company/papslearnz
+
+🐦 X  
+https://x.com/PapsLearnz
+
+---
+
+## 🛠 Philosophy
+
+Technology is best learned by **building**.
+
+Each course focuses on:
+
+- clear fundamentals  
+- practical examples  
+- real-world projects  
+- structured learning paths
